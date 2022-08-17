@@ -26,4 +26,4 @@ yarn-error.log*
 package-lock.json
 
 .next
-README.md
+__README.md
